@@ -1,1 +1,1 @@
-Empty FiveM resource boilerplate for quick development.
+FiveM resource boilerplate for quick development.
