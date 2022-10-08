@@ -1,6 +1,12 @@
 fx_version "cerulean"
 game "gta5"
 
+name "ls-boilerplate"
+description "Boilerplate for FiveM resources."
+version "1.0.0"
+url "https://lyncstudio.com"
+author "Lync#0404"
+
 client_scripts {
     "client/**"
 }
